@@ -3,6 +3,9 @@
     overflow: hidden;
 }
 
+.menu li {
+    float: left;
+}
 
 .menu li a {
     display: block;
