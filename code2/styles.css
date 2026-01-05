@@ -1,0 +1,16 @@
+.menu {
+    background-color: black;
+    overflow: hidden;
+}
+
+
+.menu li a {
+    display: block;
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    background-color: gray;
+}
