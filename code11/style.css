@@ -1,0 +1,19 @@
+.menu {
+    list-style: none;
+    display: flex;
+    background: lightgray;
+}
+
+.menu li {
+    padding: 15px;
+}
+
+.dropdown {
+    display: none;
+}
+
+.menu li:hover .dropdown {
+    display: block;
+}
+
+
